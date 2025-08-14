@@ -69,4 +69,4 @@ As I progress, I’ll keep adding:
 
 ## 💡 Inspiration  
 
-Generative AI is evolving fast, and this repo is my personal playground to explore, learn, and create — starting from one excellent book and growing into a broader collection of AI creativity.  
+Generative AI is evolving fast, and this repo is my personal playground to explore, learn, and create — starting from one excellent book and growing into a broader collection of AI creativity.
